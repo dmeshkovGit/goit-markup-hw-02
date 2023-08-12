@@ -23,18 +23,17 @@ ul {
 
 .page-nav-list {
 }
-.page-nav-list-item .nav-link {
+.nav-link {
   color: #2e2f42;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .nav-link:hover,
-.nav-link:focus,
 .nav-link:focus {
-  color: var(--ocean, #404bbf);
+  color: #404bbf;
 }
 
 .address-list {
