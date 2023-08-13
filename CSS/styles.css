@@ -13,11 +13,11 @@ ul {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.logo-Studio-nav {
+.logo-studio-nav {
   color: #2e2f42;
 }
 
@@ -70,7 +70,7 @@ ul {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 1.12px;
   width: 496px;
 }
@@ -138,7 +138,7 @@ ul {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -175,7 +175,7 @@ ul {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -221,9 +221,9 @@ footer {
   width: 264px;
 }
 
-.Logo {
+.logo {
   color: var(--iris, #4d5ae5);
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -232,6 +232,6 @@ footer {
   text-transform: uppercase;
 }
 
-.logo-Studio-footer {
+.logo-studio-footer {
   color: var(--cloud, #f4f4fd);
 }
