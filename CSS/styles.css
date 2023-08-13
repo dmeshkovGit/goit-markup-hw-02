@@ -7,7 +7,7 @@ ul {
 
 /* Page nav */
 
-.Logo {
+.logo {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
@@ -61,6 +61,7 @@ ul {
 
 .page-title-section {
   background: var(--navyblue, #2e2f42);
+  line-height: 1.07;
 }
 
 .page-title {
@@ -86,13 +87,14 @@ ul {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
+  cursor: pointer;
 }
 
-.order-service-button:hover {
+.order-service-button:hover,
+.order-service-button:focus {
   border-radius: 4px;
   background: var(--ocean, #404bbf);
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-  cursor: pointer;
 }
 
 /* Company advantages */
