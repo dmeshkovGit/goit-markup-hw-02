@@ -9,7 +9,7 @@ ul {
 
 .Logo {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -34,6 +34,10 @@ ul {
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
+}
+
+.address {
+  font-style: normal;
 }
 
 .address-list {
