@@ -169,6 +169,17 @@ ul {
 .our-portfolio-section {
 }
 
+.section-title {
+  color: var(--navyblue, #2e2f42);
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
 .our-portfolio-list {
 }
 
